@@ -1,0 +1,30 @@
+/*common start*/
+body{
+	background-color:#fcdb00;
+	font-family: 'PT Sans', sans-serif;
+}
+/*common end*/
+/*header start*/
+header{
+	background-color:#fcdb00;
+	padding: 30px 0;
+}
+.c_nav{}
+.logo{}
+.menu ul li a{
+	font-size: 22px;
+	font-weight: 700;
+	color:#010101 !important;
+	padding: 0 45px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover {
+	color:white !important;
+}
+/*header end*/
+/*inner start*/
+
+
+/*inner end*/
